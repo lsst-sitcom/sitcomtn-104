@@ -77,7 +77,7 @@ The images were simulated with the following conditions:
 +--------------+--------------+--------------+
 |     RA       |     Dec      |   Seeing     |
 +==============+==============+==============+
-| 15:17:00.75  | -9:22:57.7   |  0.8 arcsec  |
+| 15:17:00.75  | -9:22:57.7   |  0.3 arcsec  |
 +--------------+--------------+--------------+
 
 The images can currently be found in the personal butler of the author (/sdf/data/rubin/user/gmegias/projects/commissioning_sims/butler_wet001). Once the technote has been peer-reviewed and the data is vetted, it will be transferred to the AOS commissioning shared butler.
@@ -131,6 +131,14 @@ We include a comparison between the injected optical state versus the retrieved 
     :align: center
 
     *Figure 6: Injected optical state versus retrieved optical state for the first simulated optical state.*
+
+.. figure:: /_static/optical_state_statistics.png
+    :name: Optical state statistics
+    :target: ../_images/optical_state_statistics.png
+    :alt: Estimated optical state error statistics.
+    :align: center
+
+    *Figure 7: Reconstructed zernikes versus true zernikes and estimated zernikes for the first simulated optical state.*
 
 .. figure:: /_static/zernikes_reconstructed.png
     :name: Zernikes reconstructed
