@@ -72,7 +72,7 @@ Below two images are shown, one for the injected degree of freedom state, and on
 
     *Figure 2: First optical state of the 100 simulated states.*
 
-The images were simulated with the following conditions:
+The images were simulated with imsim with the following conditions:
 
 +--------------+--------------+--------------+
 |     RA       |     Dec      |   Seeing     |
